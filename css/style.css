@@ -5,3 +5,6 @@ p{
     color: yellow;
     text-align: center;
 }
+button{
+    padding: 1px 2px black;
+}
